@@ -6,7 +6,7 @@ var userClickedPattern = []
 
 var started = false
 
-var level = 1
+var level = 0
 
 $(document).keydown(function() {
     if (!started) {
